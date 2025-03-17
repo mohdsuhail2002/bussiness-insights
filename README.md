@@ -1,6 +1,8 @@
 
 # AtliQ Business Insights 360° - Power BI Project
 
+Project Link - [View Source Files](https://1024terabox.com/s/1eruR-83wEYaRXwdh6ZTz9w)
+
 ## Overview 
 AtliQ Business Insights 360° is a Power BI project designed to provide comprehensive insights into the operations of AtliQ Hardware, a rapidly growing electronics company facing challenges in Latin America. The project includes a series of interactive dashboards that offer a detailed analysis across Finance, Sales, Marketing, Supply Chain, and an Executive overview, enabling data-driven decision-making.
 
